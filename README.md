@@ -6,6 +6,25 @@ A simple go colored logging library
 
 ```go get github.com/akshaydarji13/gologger```
 
+## Supported Methods
+
+For now we support following methods:
+- Logln
+- Log
+- Logf
+- LogErrorln
+- LogError
+- LogErrorf
+- LogInfoln
+- LogInfo
+- LogInfof
+- LogDebugln
+- LogDebug
+- LogDebugf
+- LogWarningln
+- LogWarning
+- LogWarningf
+
 ## Example Usage
 
 ```
